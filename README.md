@@ -8,4 +8,4 @@
 
 # Resources
 - https://promptbase.com/
-- 
+- https://datafit.ai/
